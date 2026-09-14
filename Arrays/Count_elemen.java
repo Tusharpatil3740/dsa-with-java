@@ -23,7 +23,7 @@ public class Count_elemen {
             else System.out.println("your target Element is not in Array"); break;
 
         }
-        System.out.println("your Target Element is "+ count + " times in Array");
+        System.out.println("your Target Element"+ target+ " is "+ count + " times in Array");
 
     
 
